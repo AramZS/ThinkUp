@@ -1,0 +1,16 @@
+1.0.5-beta.1 - 1 May 2012
+=========================
+
+Changelog:
+
+
+*   Bugfix: Restore Export link on Facebook and Google+ All Posts list
+*   Bugfix: Fix missing Followers and Post Types and Client Usage charts on the dashboard
+*   Bugfix: Avoid file_exists basedir restriction error in init.php
+*   Bugfix: On the Twitter Plugin setting screen, when the hostname is localhost, show 127.0.0.1 instead for 
+    Twitter.com compatibility
+*   Bugfix: During Google+ crawl, avoid Property of non-object PHP warning when object is not set
+*   Bugfix: Clean up unnecessary CSS and tweak look of buttons and alerts
+*   Improve commenting and default settings in sample config file
+*   Developer bugfix: Make all test data files Windows compatible
+
